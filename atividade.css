@@ -3,3 +3,22 @@
     border-color: blue;
     justify-content: center;
 }
+
+.classe1{
+
+    font-size: medium;
+    border: solid blue 10px;
+
+}
+
+.classe2{
+
+    font-size: small;
+    
+}
+
+.classe3{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
